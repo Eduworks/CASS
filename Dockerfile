@@ -1,4 +1,4 @@
-FROM node:20.12-bullseye-slim
+FROM node:20.15-bullseye-slim
 WORKDIR /app
 COPY package*.json ./
 COPY pm2.test.config.js ./pm2.config.js
