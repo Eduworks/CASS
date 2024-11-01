@@ -104,7 +104,7 @@
     "busboy": "^1.6.0",
     "cassproject": "^1.5.66",
     "check-disk-space": "^3.4.0",
-    "compression": "^1.7.4",
+    "compression": "^1.7.5",
     "concurrently": "^9.0.1",
     "cors": "^2.8.5",
     "cron": "^3.1.7",
