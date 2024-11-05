@@ -105,7 +105,7 @@
     "cassproject": "^1.5.66",
     "check-disk-space": "^3.4.0",
     "compression": "^1.7.4",
-    "concurrently": "^9.0.1",
+    "concurrently": "^9.1.0",
     "cors": "^2.8.5",
     "cron": "^3.1.7",
     "express": "^4.21.1",
