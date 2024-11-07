@@ -100,7 +100,7 @@
   "dependencies": {
     "@aws-sdk/client-s3": "^3.679.0",
     "@xmldom/xmldom": "^0.9.5",
-    "aws-sdk": "^2.1691.0",
+    "aws-sdk": "^2.1692.0",
     "busboy": "^1.6.0",
     "cassproject": "^1.5.66",
     "check-disk-space": "^3.4.0",
