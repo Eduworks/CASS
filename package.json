@@ -107,7 +107,7 @@
     "compression": "^1.7.4",
     "concurrently": "^9.0.1",
     "cors": "^2.8.5",
-    "cron": "^3.1.7",
+    "cron": "^3.2.1",
     "express": "^4.21.1",
     "express-jwt": "^8.4.1",
     "express-openid-connect": "^2.17.1",
